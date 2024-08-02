@@ -1,0 +1,13 @@
+langchain
+python-dotenv
+langchain_community
+gradio
+langchain_groq
+transformers
+langchain-chroma
+langchain_huggingface
+pypdf
+cryptography>=3.1
+faiss-cpu
+huggingface-hub
+accelerate
